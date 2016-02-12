@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+url: 'https://s17k.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -35,5 +35,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+gems: ['ruby-gems', 'rubygems', 'ruby', 'jekyll-paginate', 'github-pages']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
