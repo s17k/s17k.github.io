@@ -35,5 +35,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['ruby-gems', 'rubygems', 'ruby', 'jekyll-paginate', 'github-pages']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+gems: ['rubygems','jekyll-paginate', 'github-pages']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
