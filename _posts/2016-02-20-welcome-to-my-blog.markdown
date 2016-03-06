@@ -10,4 +10,4 @@ You can also know me as `s17k` (GitHub), `stanislas` (IRC), `stasszczesniak` (Fa
 
 
 I am mostly interested in algorithms, machine/deep learning and cryptography.
-Currently, I am trying to make [BookBrainz](https://bookbrainz.org) great.
+Currently, I am busy making [BookBrainz](https://bookbrainz.org) great.
